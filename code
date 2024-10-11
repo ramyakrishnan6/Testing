@@ -24,3 +24,4 @@ public class Car {
 
 		System.out.println(electricCar+"\n"+km+"\n"+carLog);
 	}
+}
